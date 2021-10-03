@@ -7,6 +7,8 @@ public class Third {
 
         System.out.println("New third file");
 
+        System.out.println("Updated it");
+
 
 
     }
